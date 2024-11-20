@@ -5,14 +5,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348165846414"
-global.ownername = "𝑻𝒐𝒙𝒙𝒊𝒄 𝑩𝒐𝒚"
+global.ownernomer = "8295434323"
+global.ownername = "⁨𓄂⍣⃝𝙂𝙊𝘿𝄟✮͢≛⃝𝗖𝗿𝗮𝘀𝘀𝘂𝘀✮⃝👑⁩"
 global.ytname = "YT: ToxxicTech"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Nigeria"
 
-global.ownernumber = '2348165846414'  //creator number
-global.ownername = '𝑻𝒐𝒙𝒙𝒊𝒄 𝑻𝒆𝒄𝒉' //owner name
+global.ownernumber = '8295434323'  //creator number
+global.ownername = '𓄂⍣⃝𝙂𝙊𝘿𝄟✮͢≛⃝𝗖𝗿𝗮𝘀𝘀𝘂𝘀✮⃝👑⁩' //owner name
 global.botname = '𝒁𝒆𝒏𝒐𝒏 𝒁𝒐𝒈𝒓𝒂𝒕𝒊𝒔' //name of the bot
 
 // MENU TYPE
@@ -40,7 +40,7 @@ global.wm = "Toxxic Tech."
 global.link = 'https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P'
 
 //custom prefix
-global.prefa = ['','.']
+global.prefa = ['-']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
